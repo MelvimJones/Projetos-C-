@@ -1,0 +1,14 @@
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\bin\Debug\netcoreapp3.1\ProvaLogica.exe
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\bin\Debug\netcoreapp3.1\ProvaLogica.deps.json
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\bin\Debug\netcoreapp3.1\ProvaLogica.runtimeconfig.json
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\bin\Debug\netcoreapp3.1\ProvaLogica.runtimeconfig.dev.json
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\bin\Debug\netcoreapp3.1\ProvaLogica.dll
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\bin\Debug\netcoreapp3.1\ProvaLogica.pdb
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\obj\Debug\netcoreapp3.1\ProvaLogica.csproj.AssemblyReference.cache
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\obj\Debug\netcoreapp3.1\ProvaLogica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\obj\Debug\netcoreapp3.1\ProvaLogica.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\obj\Debug\netcoreapp3.1\ProvaLogica.AssemblyInfo.cs
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\obj\Debug\netcoreapp3.1\ProvaLogica.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\obj\Debug\netcoreapp3.1\ProvaLogica.dll
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\obj\Debug\netcoreapp3.1\ProvaLogica.pdb
+D:\Área de Trabalho\Programação\C#\Davi\ProvaLogica\ProvaLogica\obj\Debug\netcoreapp3.1\ProvaLogica.genruntimeconfig.cache

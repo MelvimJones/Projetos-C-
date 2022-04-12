@@ -1,0 +1,24 @@
+1 – Crie um algoritmo que determine se um número é par ou impar.
+
+
+2 – Crie um algoritmo no qual o usuário/aluno deverá informar seu nome 
+e quatro notas. O programama deverá calcular sua média e informar se o 
+aluno foi aprovado ou não. O número seis é o valor mínimo para aprovação.
+
+
+3 – Crie um programa em que o usuário/aluno deverá informar seu nome, 
+sua média, total de aulas e a quantidade de faltas. O programa deverá 
+informar se o aluno foi aprovado ou não. Para ser aprovado o aluno deverá 
+possuir no máximo 25% de falta e média 6.
+
+1 – Elabore um algoritmo que calcule a idade média de 5 alunos.
+
+2 – Crie um algoritmo que verifique se um número informado é par ou impar
+
+Faça um algoritmo que exiba quantas pessoas possuem mais de 18 anos. 
+O algoritmo deverá ler a idade de 10 pessoas.
+
+Faça um algoritmo que leia a altura e a matricula de dez aluno. 
+Mostre a matricula do aluno mais alto e do aluno mais baixo.
+
+

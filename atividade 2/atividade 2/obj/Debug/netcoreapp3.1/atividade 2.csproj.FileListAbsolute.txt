@@ -1,0 +1,14 @@
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.exe
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.deps.json
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.runtimeconfig.json
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.runtimeconfig.dev.json
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.dll
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.pdb
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.AssemblyInfo.cs
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.dll
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.pdb
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.genruntimeconfig.cache
+D:\Área de Trabalho\Programação\C#\Davi\atividade 2\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.csproj.AssemblyReference.cache

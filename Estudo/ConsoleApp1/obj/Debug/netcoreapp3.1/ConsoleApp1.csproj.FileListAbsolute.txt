@@ -1,0 +1,14 @@
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Área de Trabalho\Programação\C#\Davi\Estudo\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

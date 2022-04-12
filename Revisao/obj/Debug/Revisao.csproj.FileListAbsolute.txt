@@ -1,0 +1,8 @@
+E:\Área de Trabalho\Programação\C#\Davi\Revisao\bin\Debug\Revisao.exe.config
+E:\Área de Trabalho\Programação\C#\Davi\Revisao\bin\Debug\Revisao.exe
+E:\Área de Trabalho\Programação\C#\Davi\Revisao\bin\Debug\Revisao.pdb
+E:\Área de Trabalho\Programação\C#\Davi\Revisao\obj\Debug\Revisao.csproj.AssemblyReference.cache
+E:\Área de Trabalho\Programação\C#\Davi\Revisao\obj\Debug\Revisao.csproj.SuggestedBindingRedirects.cache
+E:\Área de Trabalho\Programação\C#\Davi\Revisao\obj\Debug\Revisao.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\Programação\C#\Davi\Revisao\obj\Debug\Revisao.exe
+E:\Área de Trabalho\Programação\C#\Davi\Revisao\obj\Debug\Revisao.pdb

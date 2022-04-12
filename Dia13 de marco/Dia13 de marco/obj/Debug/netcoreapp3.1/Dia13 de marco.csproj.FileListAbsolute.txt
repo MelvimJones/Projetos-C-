@@ -1,0 +1,14 @@
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\bin\Debug\netcoreapp3.1\Dia13 de marco.exe
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\bin\Debug\netcoreapp3.1\Dia13 de marco.deps.json
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\bin\Debug\netcoreapp3.1\Dia13 de marco.runtimeconfig.json
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\bin\Debug\netcoreapp3.1\Dia13 de marco.runtimeconfig.dev.json
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\bin\Debug\netcoreapp3.1\Dia13 de marco.dll
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\bin\Debug\netcoreapp3.1\Dia13 de marco.pdb
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\obj\Debug\netcoreapp3.1\Dia13 de marco.csproj.AssemblyReference.cache
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\obj\Debug\netcoreapp3.1\Dia13 de marco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\obj\Debug\netcoreapp3.1\Dia13 de marco.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\obj\Debug\netcoreapp3.1\Dia13 de marco.AssemblyInfo.cs
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\obj\Debug\netcoreapp3.1\Dia13 de marco.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\obj\Debug\netcoreapp3.1\Dia13 de marco.dll
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\obj\Debug\netcoreapp3.1\Dia13 de marco.pdb
+D:\Área de Trabalho\Programação\C#\Davi\Dia13 de marco\Dia13 de marco\obj\Debug\netcoreapp3.1\Dia13 de marco.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\bin\Debug\netcoreapp3.1\teste4.exe
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\bin\Debug\netcoreapp3.1\teste4.deps.json
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\bin\Debug\netcoreapp3.1\teste4.runtimeconfig.json
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\bin\Debug\netcoreapp3.1\teste4.runtimeconfig.dev.json
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\bin\Debug\netcoreapp3.1\teste4.dll
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\bin\Debug\netcoreapp3.1\teste4.pdb
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\obj\Debug\netcoreapp3.1\teste4.csproj.AssemblyReference.cache
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\obj\Debug\netcoreapp3.1\teste4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\obj\Debug\netcoreapp3.1\teste4.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\obj\Debug\netcoreapp3.1\teste4.AssemblyInfo.cs
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\obj\Debug\netcoreapp3.1\teste4.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\obj\Debug\netcoreapp3.1\teste4.dll
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\obj\Debug\netcoreapp3.1\teste4.pdb
+D:\Área de Trabalho\Programação\C#\Davi\teste4\teste4\obj\Debug\netcoreapp3.1\teste4.genruntimeconfig.cache

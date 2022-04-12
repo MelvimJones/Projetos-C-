@@ -1,0 +1,14 @@
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\bin\Debug\netcoreapp3.1\Treino.exe
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\bin\Debug\netcoreapp3.1\Treino.deps.json
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\bin\Debug\netcoreapp3.1\Treino.runtimeconfig.json
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\bin\Debug\netcoreapp3.1\Treino.runtimeconfig.dev.json
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\bin\Debug\netcoreapp3.1\Treino.dll
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\bin\Debug\netcoreapp3.1\Treino.pdb
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\obj\Debug\netcoreapp3.1\Treino.csproj.AssemblyReference.cache
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\obj\Debug\netcoreapp3.1\Treino.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\obj\Debug\netcoreapp3.1\Treino.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\obj\Debug\netcoreapp3.1\Treino.AssemblyInfo.cs
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\obj\Debug\netcoreapp3.1\Treino.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\obj\Debug\netcoreapp3.1\Treino.dll
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\obj\Debug\netcoreapp3.1\Treino.pdb
+D:\Área de Trabalho\Programação\C#\Davi\Treino\Treino\obj\Debug\netcoreapp3.1\Treino.genruntimeconfig.cache

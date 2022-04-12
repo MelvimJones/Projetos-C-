@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Área de Trabalho\Programação\C#\Davi\atividade 1.cs" Link="atividade 1.cs" />
+  </ItemGroup>
+
+</Project>

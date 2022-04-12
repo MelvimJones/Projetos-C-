@@ -1,0 +1,13 @@
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\bin\Debug\netcoreapp3.1\if else senha.exe
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\bin\Debug\netcoreapp3.1\if else senha.deps.json
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\bin\Debug\netcoreapp3.1\if else senha.runtimeconfig.json
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\bin\Debug\netcoreapp3.1\if else senha.runtimeconfig.dev.json
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\bin\Debug\netcoreapp3.1\if else senha.dll
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\bin\Debug\netcoreapp3.1\if else senha.pdb
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\obj\Debug\netcoreapp3.1\if else senha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\obj\Debug\netcoreapp3.1\if else senha.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\obj\Debug\netcoreapp3.1\if else senha.AssemblyInfo.cs
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\obj\Debug\netcoreapp3.1\if else senha.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\obj\Debug\netcoreapp3.1\if else senha.dll
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\obj\Debug\netcoreapp3.1\if else senha.pdb
+D:\Área de Trabalho\Programação\C#\Davi\if else senha\if else senha\obj\Debug\netcoreapp3.1\if else senha.genruntimeconfig.cache

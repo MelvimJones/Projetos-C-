@@ -1,0 +1,14 @@
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\bin\Debug\netcoreapp3.1\if else.exe
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\bin\Debug\netcoreapp3.1\if else.deps.json
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\bin\Debug\netcoreapp3.1\if else.runtimeconfig.json
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\bin\Debug\netcoreapp3.1\if else.runtimeconfig.dev.json
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\bin\Debug\netcoreapp3.1\if else.dll
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\bin\Debug\netcoreapp3.1\if else.pdb
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\obj\Debug\netcoreapp3.1\if else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\obj\Debug\netcoreapp3.1\if else.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\obj\Debug\netcoreapp3.1\if else.AssemblyInfo.cs
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\obj\Debug\netcoreapp3.1\if else.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\obj\Debug\netcoreapp3.1\if else.dll
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\obj\Debug\netcoreapp3.1\if else.pdb
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\obj\Debug\netcoreapp3.1\if else.genruntimeconfig.cache
+D:\Área de Trabalho\Programação\C#\Davi\if else\if else\obj\Debug\netcoreapp3.1\if else.csproj.AssemblyReference.cache

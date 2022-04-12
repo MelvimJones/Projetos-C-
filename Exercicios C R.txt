@@ -1,0 +1,317 @@
+1 – Crie um algoritmo que determine se um número é par ou impar.
+
+using System;
+ using System.Collections.Generic;
+ using System.Linq;
+ using System.Text;
+ using System.Threading.Tasks;
+ namespace ParOuImpar
+ {
+     class Program
+     {
+         static void Main(string[] args)
+         {
+             int Num = 0;
+             int R = 0;
+             Console.WriteLine("Digite um número");
+             Num = Convert.ToInt32(Console.ReadLine());
+             R = Num % 2;
+             if (R == 0)
+             {
+                 Console.WriteLine("O Número é Par");
+             }
+             else
+             {
+                 Console.WriteLine("O Número é Impar");
+             }
+             Console.WriteLine("Digite qualquer valor para sair do aplicativo");
+             Console.ReadKey();
+         }
+     }
+ }
+2 – Crie um algoritmo no qual o usuário/aluno deverá informar informar seu nome e quatro notas. O programama deverá calcular sua média e informar se o aluno foi aprovado ou não. O número seis é o valor mínimo para aprovação.
+
+using System;
+ using System.Collections.Generic;
+ using System.Linq;
+ using System.Text;
+ using System.Threading.Tasks;
+ namespace MediaConsole
+ {
+     class Program
+     {
+         static void Main(string[] args)
+         {
+             String N="";
+             float g1=0;
+             float g2=0;
+             float g3=0;
+             float g4=0;
+             float M=0;
+             Console.Write("NOME COMPLETO DO ALUNO:");
+             N = Console.ReadLine();
+             Console.Write("NOTA DO ALUNO NO 1°BIMESTRE:");
+             g1 = float.Parse(Console.ReadLine());
+             Console.Write("NOTA DO ALUNO NO 2°BIMESTRE:");
+             g2 = float.Parse(Console.ReadLine());
+             Console.Write("NOTA DO ALUNO NO 3°BIMESTRE:");
+             g3 = float.Parse(Console.ReadLine());
+             Console.Write("NOTA DO ALUNO NO 4°BIMESTRE:");
+             g4 = float.Parse(Console.ReadLine());
+             M = (g1 + g2 + g3 + g4)/4;
+             if (M >= 6)
+             {
+                 Console.WriteLine("O ALUNO " + N + " FOI APROVADO. \nSUA MÉDIA FINAL FOI " + M);
+             }
+             else
+             {
+                 Console.WriteLine("O ALUNO " + N + " FOI REPROVADO. \nSUA MÉDIA FINAL FOI" + M);
+             }
+             Console.ReadLine();
+         }
+     }
+ }
+3 – Crie um programa em que o usuário/aluno deverá informar seu nome, sua média, total de aulas e a quantidade de faltas. O programa deverá informar se o aluno foi aprovado ou não. Para ser aprovado o aluno deverá possuir no máximo 25% de falta e média 6.
+
+using System;
+ using System.Collections.Generic;
+ using System.Linq;
+ using System.Text;
+ using System.Threading.Tasks;
+ namespace FaltasConsole
+ {
+     class Program
+     {
+         static void Main(string[] args)
+         {
+             string nome;
+             double mf = 0;
+             double ad = 0;
+             double qf = 0;
+             double pf = 0;
+             Console.WriteLine("Aprovação por média e faltas.");
+             Console.WriteLine();
+             Console.Write("Nome do(a) aluno(a): ");
+             nome = Console.ReadLine();
+             Console.Write("Média final: ");
+             mf = Convert.ToDouble(Console.ReadLine());
+             Console.Write("Total de aulas dadas: ");
+             ad = Convert.ToDouble(Console.ReadLine());
+             Console.Write("Total de faltas: ");
+             qf = Convert.ToDouble(Console.ReadLine());
+             Console.WriteLine();
+             pf = (qf * 100) / ad;
+             if((pf <= 25) && (mf > 6))
+             {
+                 Console.WriteLine("Média Final: " + mf + ".");
+                 Console.WriteLine("Porcentagem de faltas: " + pf + "%.");
+                 Console.WriteLine(nome + ", você foi aprovado(a).");
+             }
+             else
+             {
+                 Console.WriteLine("Média final: " + mf + ".");
+                 Console.WriteLine("Porcentagem de faltas: " + pf + "%.");
+                 Console.WriteLine(nome + ", você foi reprovado(a).");
+             }
+             Console.ReadKey();
+ 
+    } }
+
+ }
+
+1 – Elabore um algoritmo que calcule a idade média de 5 alunos.
+ Double media=0;
+ Double idade1=0;
+ Double idade2=0;
+ Double idade3=0;
+ Double idade4=0;
+ Double idade5=0;
+ Console.WriteLine("Programa que calcula a idade media de cinco alunos");
+ Console.Write("Informe a idade do 1° alunos : ");
+ idade1 = Convert.ToDouble(Console.ReadLine());
+ Console.Write("Informe a idade do 2° alunos : ");
+ idade2 = Convert.ToDouble(Console.ReadLine());
+ Console.Write("Informe a idade do 3° alunos : ");
+ idade3 = Convert.ToDouble(Console.ReadLine());
+ Console.Write("Informe a idade do 4° alunos : ");
+ idade4 = Convert.ToDouble(Console.ReadLine());
+ Console.Write("Informe a idade do 5° alunos : ");
+ idade5 = Convert.ToDouble(Console.ReadLine());
+ media = (idade1 + idade2 + idade3 + idade4 + idade5) / 5;
+ Console.WriteLine("A ídade média dos alunos é " + media);
+ Console.ReadKey();
+
+2 – Crie um algoritmo que verifique se um número informado é par ou impar
+ int n = 0;
+ int r = 0;
+ Console.WriteLine("Determina se o número é par ou impar");
+ Console.Write("Informe um número: ");
+ n = Convert.ToInt32(Console.ReadLine());
+ r = n % 2;
+ if (r == 1)
+ {
+ Console.WriteLine("O número informado é impar");
+ }
+ else
+ {
+ Console.WriteLine("O número informado é par");
+ }
+ Console.ReadKey();
+3 – Faça um algoritmo que exiba quantas pessoas possuem mais de 18 anos. O algoritmo deverá ler a idade de 10 pessoas.
+ int qtde = 0;
+ int idade = 0;
+ Console.WriteLine("Exercício 2 - Verifica maior idade");
+ int i = 0;
+ while (i < 10)
+ {
+ i = i + 1;
+ Console.Write("Informe a idade da pessoa: ");
+ idade = Convert.ToInt32(Console.ReadLine());
+ if (idade >= 18)
+ {
+ qtde = qtde + 1;
+ }
+ }
+ Console.WriteLine("Existem " + qtde + " pessoas com mais de 18 anos");
+ Console.ReadKey();
+4 – Faça um algoritmo que calcule e exiba o salário reajustado de dez funcionários de acordo com a seguinte regra: Salário até 300, reajuste de 50%; Salários maiores que 300, reajuste de 30%.
+ Double salario = 0;
+ Double salarioNovo = 0;
+ Console.WriteLine("Efetua o reajuste salarial");
+ for (int i = 0; i < 3; i++)
+ {
+ Console.Write("Informe o salário: ");
+ salario = Convert.ToDouble(Console.ReadLine());
+ if (salario <= 300)
+ { //50%
+ salarioNovo = salario * 1.50;
+ }
+ else
+ { //30%
+ salarioNovo = salario + ((salario * 30) / 100);
+ }
+ Console.WriteLine("Salário reajustado: " + salarioNovo);
+ }
+ Console.ReadKey();
+5 – Faça um algoritmo que leia a altura e a matricula de dez aluno. Mostre a matricula do aluno mais alto e do aluno mais baixo.
+ String maMatricula;
+ Double maAltura;
+
+ String meMatricula;
+ Double meAltura;
+
+ String Matricula;
+ Double Altura;
+
+ Console.WriteLine("Determina o maior aluno e o menor aluno");
+ Console.Write("Informe a matricula do aluno: ");
+ Matricula = Console.ReadLine();
+ Console.Write("Informe a altura do aluno: ");
+ Altura = Convert.ToDouble(Console.ReadLine());
+
+ maAltura = Altura;
+ meAltura = Altura;
+ maMatricula = Matricula;
+ meMatricula = Matricula;
+ int i = 1;
+ while (i < 5)
+ {
+ Console.Write("Informe a matricula do aluno: ");
+ Matricula = Console.ReadLine();
+ Console.Write("Informe a altura do aluno: ");
+ Altura = Convert.ToDouble(Console.ReadLine());
+ if(maAltura < Altura)
+ {
+ maMatricula = Matricula;
+ maAltura = Altura;
+ }
+
+ if (meAltura > Altura)
+ {
+ meMatricula = Matricula;
+ meAltura = Altura;
+ }
+ i++;
+ }
+ Console.WriteLine("Maior aluno");
+ Console.WriteLine("Matricula: {0}, Altura: {1}", maMatricula, maAltura);
+ Console.WriteLine("Menor aluno");
+ Console.WriteLine("Matricula: {0}, Altura: {1}", meMatricula, meAltura);
+ Console.ReadKey();
+
+1)Tendo como dados de entrada a altura e o sexo de uma pessoa (M - Masculino e F - Feminino), contrua um algoritimo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+- para homens: (72.7*h) - 58
+- para mulheres: (62.1*h) - 44.7
+
+2)Faça um algoritimo que leia 3 numeros e exiba o menor deles.
+
+3)Dado o conjunto de 5 valores reais, faça um algoritimo que:
+a) Exiba os valores que não são negativos.
+b)Calcule e exiba a média dos valores <0.
+
+Programa que verifica a idade para tirar a carta de condução.
+Se a idade for >= 18, o programa indica que pode tirar a carta.
+Se a idade for < 18, deve indicar quantos anos faltam para poder tirar a carta.
+
+           static void Main(string[] args)
+        {
+            Console.WriteLine("Introduza a idade: ");
+            int idade = int.Parse(Console.ReadLine());
+
+            if (idade >= 18)
+            {
+                Console.WriteLine("Pode tirar a carta");
+            }
+            else
+            {
+                Console.WriteLine("Não pode tirar a carta. Anos que faltam =" + (18-idade));
+            }       
+        }
+
+Programa que lê dois números inteiros e escreve na consola qual o maior, ou no caso de serem iguais, deve escrever “valores iguais”.
+
+static void Main(string[] args)
+{
+    Console.WriteLine("Introduza x: ");
+    int x = int.Parse(Console.ReadLine());
+    Console.WriteLine("Introduza y: ");
+    int y = int.Parse(Console.ReadLine());
+
+    if (x > y)
+    {
+        Console.WriteLine(x + " é maior do que " + y);
+    }
+    else
+    {
+        if (x == y)
+        {
+            Console.WriteLine("valores iguais");
+        }
+        else
+        {
+            Console.WriteLine(y + " é maior do que " + x);
+        }
+    }
+}
+
+Programa que lê três números inteiros e escreve na consola qual o maior
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Introduza x: ");
+            int x = int.Parse(Console.ReadLine());
+            Console.WriteLine("Introduza y: ");
+            int y = int.Parse(Console.ReadLine());
+            Console.WriteLine("Introduza y: ");
+            int z = int.Parse(Console.ReadLine());
+
+            if (x > y)
+            {
+                if(x > z) Console.WriteLine(" O maior é " + x);
+                else Console.WriteLine(" O maior é " + z);
+            }
+            else
+            {
+                if (y > z) Console.WriteLine(" O maior é " + y);
+                else Console.WriteLine(" O maior é " + z);
+            }
+        }

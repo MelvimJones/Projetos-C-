@@ -1,0 +1,8 @@
+E:\Área de Trabalho\Programação\C#\Davi\Testedia24\bin\Debug\Testedia24.exe.config
+E:\Área de Trabalho\Programação\C#\Davi\Testedia24\bin\Debug\Testedia24.exe
+E:\Área de Trabalho\Programação\C#\Davi\Testedia24\bin\Debug\Testedia24.pdb
+E:\Área de Trabalho\Programação\C#\Davi\Testedia24\obj\Debug\Testedia24.csproj.AssemblyReference.cache
+E:\Área de Trabalho\Programação\C#\Davi\Testedia24\obj\Debug\Testedia24.csproj.SuggestedBindingRedirects.cache
+E:\Área de Trabalho\Programação\C#\Davi\Testedia24\obj\Debug\Testedia24.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\Programação\C#\Davi\Testedia24\obj\Debug\Testedia24.exe
+E:\Área de Trabalho\Programação\C#\Davi\Testedia24\obj\Debug\Testedia24.pdb

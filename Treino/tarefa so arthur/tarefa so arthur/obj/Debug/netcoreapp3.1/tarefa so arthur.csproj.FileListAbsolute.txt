@@ -1,0 +1,14 @@
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\bin\Debug\netcoreapp3.1\tarefa so arthur.exe
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\bin\Debug\netcoreapp3.1\tarefa so arthur.deps.json
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\bin\Debug\netcoreapp3.1\tarefa so arthur.runtimeconfig.json
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\bin\Debug\netcoreapp3.1\tarefa so arthur.runtimeconfig.dev.json
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\bin\Debug\netcoreapp3.1\tarefa so arthur.dll
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\bin\Debug\netcoreapp3.1\tarefa so arthur.pdb
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\obj\Debug\netcoreapp3.1\tarefa so arthur.csproj.AssemblyReference.cache
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\obj\Debug\netcoreapp3.1\tarefa so arthur.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\obj\Debug\netcoreapp3.1\tarefa so arthur.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\obj\Debug\netcoreapp3.1\tarefa so arthur.AssemblyInfo.cs
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\obj\Debug\netcoreapp3.1\tarefa so arthur.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\obj\Debug\netcoreapp3.1\tarefa so arthur.dll
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\obj\Debug\netcoreapp3.1\tarefa so arthur.pdb
+D:\Área de Trabalho\Programação\C#\Davi\Treino\tarefa so arthur\tarefa so arthur\obj\Debug\netcoreapp3.1\tarefa so arthur.genruntimeconfig.cache

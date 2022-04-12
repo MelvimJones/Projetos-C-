@@ -1,0 +1,14 @@
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\bin\Debug\netcoreapp3.1\5marco.exe
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\bin\Debug\netcoreapp3.1\5marco.deps.json
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\bin\Debug\netcoreapp3.1\5marco.runtimeconfig.json
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\bin\Debug\netcoreapp3.1\5marco.runtimeconfig.dev.json
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\bin\Debug\netcoreapp3.1\5marco.dll
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\bin\Debug\netcoreapp3.1\5marco.pdb
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\obj\Debug\netcoreapp3.1\5marco.csproj.AssemblyReference.cache
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\obj\Debug\netcoreapp3.1\5marco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\obj\Debug\netcoreapp3.1\5marco.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\obj\Debug\netcoreapp3.1\5marco.AssemblyInfo.cs
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\obj\Debug\netcoreapp3.1\5marco.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\obj\Debug\netcoreapp3.1\5marco.dll
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\obj\Debug\netcoreapp3.1\5marco.pdb
+D:\Área de Trabalho\Programação\C#\Davi\5marco\5marco\obj\Debug\netcoreapp3.1\5marco.genruntimeconfig.cache

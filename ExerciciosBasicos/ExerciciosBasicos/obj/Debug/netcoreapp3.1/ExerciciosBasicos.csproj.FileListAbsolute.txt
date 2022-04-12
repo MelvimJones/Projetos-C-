@@ -1,0 +1,14 @@
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\bin\Debug\netcoreapp3.1\ExerciciosBasicos.exe
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\bin\Debug\netcoreapp3.1\ExerciciosBasicos.deps.json
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\bin\Debug\netcoreapp3.1\ExerciciosBasicos.runtimeconfig.json
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\bin\Debug\netcoreapp3.1\ExerciciosBasicos.runtimeconfig.dev.json
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\bin\Debug\netcoreapp3.1\ExerciciosBasicos.dll
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\bin\Debug\netcoreapp3.1\ExerciciosBasicos.pdb
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\netcoreapp3.1\ExerciciosBasicos.csproj.AssemblyReference.cache
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\netcoreapp3.1\ExerciciosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\netcoreapp3.1\ExerciciosBasicos.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\netcoreapp3.1\ExerciciosBasicos.AssemblyInfo.cs
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\netcoreapp3.1\ExerciciosBasicos.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\netcoreapp3.1\ExerciciosBasicos.dll
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\netcoreapp3.1\ExerciciosBasicos.pdb
+D:\Área de Trabalho\Programação\C#\Davi\ExerciciosBasicos\ExerciciosBasicos\obj\Debug\netcoreapp3.1\ExerciciosBasicos.genruntimeconfig.cache
